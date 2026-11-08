@@ -1,0 +1,15 @@
+# Mathematics for Computer Science (MIT 6.042J)
+
+> Personal study archive for MIT 6.042J: the official English textbook PDF, a chapter/section hierarchy index, and a re-ordered scan of Chapter 18.
+
+## Materials
+- 教材/MIT-6.042J-官方教材-Mathematics-for-Computer-Science-2015(英文原书,920页).pdf: official textbook, 920 pages, English
+- 扫描件/第18章 随机变量（扫描·按页码重排33页）.pdf: deduplicated and page-ordered scan of Ch.18 Random Variables, p.739-765
+- 目录/目录.docx: book table of contents
+
+## Index
+- 章节结构索引.md: chapter -> section -> subsection outline exported from the notes tree, for quick lookup
+
+## 备注
+- Textbook (c) Lehman / Leighton / Meyer, MIT. Personal study archive only, no affiliation.
+- README, filenames and the index are in Chinese; the textbook is in English.
