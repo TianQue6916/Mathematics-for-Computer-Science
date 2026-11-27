@@ -1,14 +1,26 @@
 # Mathematics for Computer Science (MIT 6.042J)
 
-> Personal study archive for MIT 6.042J: the official English textbook PDF, a chapter/section hierarchy index, and a re-ordered scan of Chapter 18.
+> Personal study archive for MIT 6.042J: 8 chunked Chinese translation drafts, the official English textbook PDF, a chapter/section hierarchy index, and a re-ordered scan of Chapter 18.
 
-## Materials
-- 教材/MIT-6.042J-官方教材-Mathematics-for-Computer-Science-2015(英文原书,920页).pdf: official textbook, 920 pages, English
-- 01-教材/第18章 随机变量（扫描·按页码重排33页）.pdf: deduplicated and page-ordered scan of Ch.18 Random Variables, p.739-765
-- 目录/目录.docx: book table of contents
+## Materials (01-教材/)
+
+Chinese translation drafts, split into 8 chunks (source page range in each file name):
+- [01-教材/6042J离散数学_b000-050.md](01-教材/6042J离散数学_b000-050.md)
+- [01-教材/6042J离散数学_b051-100.md](01-教材/6042J离散数学_b051-100.md)
+- [01-教材/6042J离散数学_b101-150.md](01-教材/6042J离散数学_b101-150.md)
+- [01-教材/6042J离散数学_b151-200.md](01-教材/6042J离散数学_b151-200.md)
+- [01-教材/6042J离散数学_b201-250.md](01-教材/6042J离散数学_b201-250.md)
+- [01-教材/6042J离散数学_b251-300.md](01-教材/6042J离散数学_b251-300.md)
+- [01-教材/6042J离散数学_b301-350.md](01-教材/6042J离散数学_b301-350.md)
+- [01-教材/6042J离散数学_b351-391.md](01-教材/6042J离散数学_b351-391.md)
+
+Original and auxiliary files:
+- 01-教材/MIT-6.042J-官方教材-Mathematics-for-Computer-Science-2015(英文原书,920页).pdf: official textbook, 920 pages, English
+- 01-教材/第18章 随机变量（扫描·按页码重排33页）.pdf: deduplicated and page-ordered scan of Ch.18 Random Variables, 33 pages
+- 01-教材/目录.docx: book table of contents
 
 ## Index
-- 章节结构索引.md: chapter -> section -> subsection outline exported from the notes tree, for quick lookup
+- 03-已处理文件/章节结构索引.md: chapter -> section -> subsection outline exported from the notes tree, for quick lookup
 
 ## 备注
 - Textbook (c) Lehman / Leighton / Meyer, MIT. Personal study archive only, no affiliation.
